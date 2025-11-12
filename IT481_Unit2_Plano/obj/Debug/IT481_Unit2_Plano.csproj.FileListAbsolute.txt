@@ -1,0 +1,10 @@
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.csproj.AssemblyReference.cache
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.Form1.resources
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.Properties.Resources.resources
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.csproj.GenerateResource.cache
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.csproj.CoreCompileInputs.cache
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\bin\Debug\IT481_Unit2_Plano.exe.config
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\bin\Debug\IT481_Unit2_Plano.exe
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\bin\Debug\IT481_Unit2_Plano.pdb
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.exe
+C:\Users\Shawn\source\repos\IT481_Unit2_Plano\obj\Debug\IT481_Unit2_Plano.pdb
